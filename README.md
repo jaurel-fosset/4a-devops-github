@@ -1,1 +1,1 @@
-Introdutcion à github : GitHub Action, Issue & Pull Request.
+Introduction à github : GitHub Action, Issue & Pull Request.
