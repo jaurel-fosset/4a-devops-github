@@ -8,6 +8,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: curl moon
-        uses: alesil/actions-curl@v1.2
-        with:
-          curl: "wttr.in/Moon"
+        run: curl wttr.in/Moon
