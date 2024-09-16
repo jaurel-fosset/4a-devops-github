@@ -10,5 +10,4 @@ jobs:
       - uses: alesil/actions-curl@v1.2
         name: moon
         with:
-          curl: wttr.in/Moon
-          
+          curl: "wttr.in/Moon"
