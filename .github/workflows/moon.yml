@@ -1,0 +1,14 @@
+name: moon
+
+on:
+  workflow_dispatch:
+
+jobs:
+  moon:
+    runs-on: ubuntu-last
+    steps:
+      - uses: alesil/actions-curl@v1.2
+      - name: moon
+      - with:
+          curl: wttr.in/Moon
+          
