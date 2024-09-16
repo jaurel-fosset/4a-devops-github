@@ -3,3 +3,4 @@ Introduction à github : GitHub Action, Issue & Pull Request.
 image : ![rust](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/1920px-Rustacean-orig-noshadow.svg.png)
 
 # Status actions
+A Test
