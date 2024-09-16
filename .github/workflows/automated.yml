@@ -1,0 +1,13 @@
+name: automated
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  automated:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: log
+        run: echo "New Push !"
